@@ -1,7 +1,9 @@
-<img width="1340" height="800" alt="Screenshot_20240313_220302_YouTube" src="https://github.com/user-attachments/assets/7087c3f9-7475-4e5b-897c-41cc51736753" />
-<img width="1340" height="800" alt="Screenshot_20240314_230437_YouTube" src="https://github.com/user-attachments/assets/4c3bd154-59c9-4617-ab4f-9dea87cbeb3a" />
 # Proof_oF_Learning
-My_Devops_Notes! (Using Courses &amp; Tutorials.) <img width="1340" height="800" alt="Screenshot_20240305_225517_YouTube" src="https://github.com/user-attachments/assets/251c5667-f9dc-4129-afa5-8a1fa52f1a5e" />
+My_Devops_Notes! (Using Courses &amp; Tutorials.) 
+ 
+ <img width="1340" height="800" alt="Screenshot_20240313_220302_YouTube" src="https://github.com/user-attachments/assets/7087c3f9-7475-4e5b-897c-41cc51736753" />
+<img width="1340" height="800" alt="Screenshot_20240314_230437_YouTube" src="https://github.com/user-attachments/assets/4c3bd154-59c9-4617-ab4f-9dea87cbeb3a" />
+ <img width="1340" height="800" alt="Screenshot_20240305_225517_YouTube" src="https://github.com/user-attachments/assets/251c5667-f9dc-4129-afa5-8a1fa52f1a5e" />
 
 <img width="1340" height="800" alt="Screenshot_20240310_142142_YouTube" src="https://github.com/user-attachments/assets/3c3715c7-e1bb-4812-896f-c8b1f9a467cf" />
 <img width="1340" height="800" alt="Screenshot_20240313_110731_YouTube" src="https://github.com/user-attachments/assets/e6062a2d-ba47-4050-9587-e33da913db7e" />
